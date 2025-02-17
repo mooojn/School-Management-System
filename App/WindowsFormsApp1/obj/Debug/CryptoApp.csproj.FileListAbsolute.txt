@@ -1,0 +1,285 @@
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Mainmenu.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.SignUp.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CopyComplete
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Login.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Manager.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.Dashboard.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageUsers.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageCoins.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Fody.CopyLocal.cache
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.Stats.resources
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\XD GAMING\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Login.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Mainmenu.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Manager.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.Dashboard.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageCoins.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageUsers.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.SignUp.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Fody.CopyLocal.cache
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CopyComplete
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ViewAllTransactions.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ViewUserAssets.resources
+C:\Users\XD GAMING\Desktop\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.MainPage.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Login.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Mainmenu.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Manager.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.Dashboard.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageCoins.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageUsers.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ViewAllTransactions.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ViewUserAssets.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.SignUp.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.MainPage.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Fody.CopyLocal.cache
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CopyComplete
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.Wallet.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.View_Market.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.Deposit.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.TransactionsUser.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.UserDashboard.resources
+C:\Users\XD GAMING\Desktop\OOP project\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.Trade.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Login.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Mainmenu.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Manager.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.Dashboard.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageCoins.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ManageUsers.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ViewAllTransactions.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.ManagerUI.ViewUserAssets.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.SignUp.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.Deposit.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.MainPage.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.Trade.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.TransactionsUser.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.UserDashboard.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.View_Market.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.UserUI.Wallet.resources
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Fody.CopyLocal.cache
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\OOP Projects\OOP project\CryptoWinFormsWithLibrary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Up2Date
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Fody.CopyLocal.cache
+C:\Users\XD GAMING\Desktop\School Management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CryptoApp.csproj.Up2Date

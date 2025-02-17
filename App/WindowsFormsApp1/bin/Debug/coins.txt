@@ -1,0 +1,4 @@
+0, USD Tether, Similar to USD Coin,280, USDT
+1,BitCoin,World #1 Coin,12345678,BTC
+2,LiteCoin,Lister than BitCoin,75675472,LTC
+3,DogeCoin,Oldest Coin,353,Doge
